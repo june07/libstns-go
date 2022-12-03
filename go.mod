@@ -1,4 +1,4 @@
-module github.com/STNS/libstns-go
+module github.com/june07/libstns-go
 
 go 1.14
 
